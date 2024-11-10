@@ -107,7 +107,7 @@ plt.show()
 These examples should help you get started with data plotting in Python. Let me know if you'd like specific examples with your data type!
 
 ---------------------------------------------------------------------------------------------------------------------
-##### i want to plotting the spectrum waves ?
+#### I want to plotting the spectrum waves ?
 
 To plot a spectrum wave (often used for visualizing signals, audio frequencies, or other waveforms), you can follow these steps using **Matplotlib** and **NumPy** to simulate and plot the spectrum.
 
